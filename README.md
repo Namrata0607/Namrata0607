@@ -79,15 +79,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://raw.githubusercontent.com/namrata0607/namrata0607/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Namrata0607/Namrata0607/output/github-contribution-grid-snake-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://raw.githubusercontent.com/namrata0607/namrata0607/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/Namrata0607/Namrata0607/output/github-contribution-grid-snake.svg"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://raw.githubusercontent.com/namrata0607/namrata0607/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Namrata0607/Namrata0607/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
     />
   </picture>
