@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm <a href="https://namratadaphale.me" target="_blank">Namrata Daphale</a></h1>
-<h3 align="center">🚀 Full Stack Developer | 🌸 Flutter Enthusiast | 💡 Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | 🌸 Passionate Learner 💡</h3>
 
 <p align="center">
   <a href="https://github.com/namrata0607">
