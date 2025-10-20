@@ -96,7 +96,7 @@
 ---
 
 ### 💬 Fun Fact
-> “I turn ideas 💭 into interactive experiences 🌍 using code 💻.”
+> I turn ideas 💭 into reality 🌍 with code 💻.”
 
 ---
 
